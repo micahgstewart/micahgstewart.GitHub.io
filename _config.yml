@@ -4,5 +4,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Combining my engineering mindset with Data Analytics. Weightlifting. Sports. <br><br><br>
   <a href="https://www.linkedin.com/in/micahgstewart/">View My LinkedIn Profile</a> 
 
- 
+  theme: jekyll-theme-minimal 
   google_analytics: UA-000000-0 # your Google Analytics tracking ID here
